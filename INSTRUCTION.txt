@@ -1,0 +1,21 @@
+This is the implementation code of our method in a prototype system (http://ws.nju.edu.cn/coclus/).
+
+Environment:
+(1) JDK 7 or later
+(2) Apache Tomcat 7.0
+(3) Eclipse 4.4
+(4) Chrome
+
+Process:
+(1) Download project files and import it into Eclipse workspace.
+(2) Download dbpedia_resource_index shared in onedrive (https://1drv.ms/u/s!ArUJ8GCuWKRobIpKWsn4DjaREiE), and Upzip it to the project root directory.
+
+Online system:
+http://ws.nju.edu.cn/coclus/
+
+Please contact me at zhengliang9966@gmail.com if you have questions or remarks.
+
+
+
+
+

@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/ccLinkClassService/DBTypeLuceneIndexer.java=UTF-8
+encoding//src/ccLinkClassService/LogLuceneIndexer.java=UTF-8
+encoding//src/ccLinkClassUtil/Element.java=UTF-8
+encoding//src/ccLinkClassUtil/Graph.java=UTF-8
+encoding//src/ccLinkClassUtil/TwoTuple.java=UTF-8
+encoding//src/cocluster/ImportLocalHierarchy.java=UTF-8
+encoding//src/cocluster/LinkClassClusters.java=UTF-8
+encoding//src/cocluster/LowestCommSuperDistance.java=UTF-8
